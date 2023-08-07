@@ -3,7 +3,7 @@
 <br>
 <p>
   还在为OptiFine在高版本辣鸡的兼容性发愁？
-  不如试试这个——<h3>OptiNotFine</h3>!
+  不如试试这个——<h3>OptiNotFine</h3>
   适用版本：1.16.5
 </p>
 <a href=./1.16.5-OptiNotFine.zip><input type="button" value="点我即可下载"></a>
