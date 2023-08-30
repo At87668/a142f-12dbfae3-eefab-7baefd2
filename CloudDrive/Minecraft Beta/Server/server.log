@@ -1,0 +1,251 @@
+2023-08-27 20:51:35 [INFO] Starting minecraft server version Beta 1.7.3
+2023-08-27 20:51:35 [WARNING] **** NOT ENOUGH RAM!
+2023-08-27 20:51:35 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2023-08-27 20:51:35 [INFO] Loading properties
+2023-08-27 20:51:35 [WARNING] server.properties does not exist
+2023-08-27 20:51:35 [INFO] Generating new properties file
+2023-08-27 20:51:35 [INFO] Starting Minecraft server on *:25565
+2023-08-27 20:51:35 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (系统找不到指定的文件。)
+2023-08-27 20:51:35 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (系统找不到指定的文件。)
+2023-08-27 20:51:35 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (系统找不到指定的文件。)
+2023-08-27 20:51:35 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (系统找不到指定的文件。)
+2023-08-27 20:51:35 [INFO] Preparing level "world"
+2023-08-27 20:51:35 [SEVERE] Unexpected exception
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    ex.a(Lke;)V @18: invokevirtual
+  Reason:
+    Type 'fu' (current frame, stack[1]) is not assignable to 'da'
+  Current Frame:
+    bci: @18
+    flags: { }
+    locals: { 'ex', 'ke' }
+    stack: { 'net/minecraft/client/Minecraft', 'fu' }
+  Bytecode:
+    0x0000000: 2bb4 000f 9a00 112a b400 10bb 0011 59b7
+    0x0000010: 0012 b600 13b1                         
+  Stackmap Table:
+    same_frame(@21)
+
+	at net.minecraft.server.MinecraftServer.c(SourceFile:162)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:284)
+	at bq.run(SourceFile:422)
+2023-08-27 20:52:28 [INFO] Stopping server
+2023-08-27 20:52:50 [INFO] Starting minecraft server version Beta 1.7.3
+2023-08-27 20:52:50 [INFO] Loading properties
+2023-08-27 20:52:50 [INFO] Starting Minecraft server on *:25565
+2023-08-27 20:52:50 [INFO] Preparing level "world"
+2023-08-27 20:52:50 [SEVERE] Unexpected exception
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    ex.a(Lke;)V @18: invokevirtual
+  Reason:
+    Type 'fu' (current frame, stack[1]) is not assignable to 'da'
+  Current Frame:
+    bci: @18
+    flags: { }
+    locals: { 'ex', 'ke' }
+    stack: { 'net/minecraft/client/Minecraft', 'fu' }
+  Bytecode:
+    0x0000000: 2bb4 000f 9a00 112a b400 10bb 0011 59b7
+    0x0000010: 0012 b600 13b1                         
+  Stackmap Table:
+    same_frame(@21)
+
+	at net.minecraft.server.MinecraftServer.c(SourceFile:162)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:284)
+	at bq.run(SourceFile:422)
+2023-08-27 21:19:24 [INFO] ModLoader Server Beta 1.6.6v4 Initializing...
+2023-08-27 21:19:24 [INFO] Starting minecraft server version Beta 1.7.3
+2023-08-27 21:19:24 [INFO] Loading properties
+2023-08-27 21:19:24 [INFO] Starting Minecraft server on *:25565
+2023-08-27 21:19:24 [INFO] Preparing level "world"
+2023-08-27 21:19:24 [INFO] Preparing start region for level 0
+2023-08-27 21:19:25 [INFO] Preparing spawn area: 4%
+2023-08-27 21:19:26 [INFO] Preparing spawn area: 12%
+2023-08-27 21:19:27 [INFO] Preparing spawn area: 24%
+2023-08-27 21:19:28 [INFO] Preparing spawn area: 36%
+2023-08-27 21:19:29 [INFO] Preparing spawn area: 44%
+2023-08-27 21:19:30 [INFO] Preparing spawn area: 48%
+2023-08-27 21:19:31 [INFO] Preparing spawn area: 56%
+2023-08-27 21:19:32 [INFO] Preparing spawn area: 65%
+2023-08-27 21:19:33 [INFO] Preparing spawn area: 73%
+2023-08-27 21:19:34 [INFO] Preparing spawn area: 77%
+2023-08-27 21:19:35 [INFO] Preparing spawn area: 85%
+2023-08-27 21:19:37 [INFO] Preparing spawn area: 93%
+2023-08-27 21:19:37 [INFO] Preparing start region for level 1
+2023-08-27 21:19:38 [INFO] Preparing spawn area: 0%
+2023-08-27 21:19:40 [INFO] Preparing spawn area: 4%
+2023-08-27 21:19:41 [INFO] Preparing spawn area: 8%
+2023-08-27 21:19:42 [INFO] Preparing spawn area: 12%
+2023-08-27 21:19:44 [INFO] Preparing spawn area: 16%
+2023-08-27 21:19:45 [INFO] Preparing spawn area: 20%
+2023-08-27 21:19:46 [INFO] Preparing spawn area: 24%
+2023-08-27 21:19:47 [INFO] Preparing spawn area: 28%
+2023-08-27 21:19:48 [INFO] Preparing spawn area: 36%
+2023-08-27 21:19:49 [INFO] Preparing spawn area: 44%
+2023-08-27 21:19:50 [INFO] Preparing spawn area: 52%
+2023-08-27 21:19:51 [INFO] Preparing spawn area: 56%
+2023-08-27 21:19:52 [INFO] Preparing spawn area: 61%
+2023-08-27 21:19:53 [INFO] Preparing spawn area: 65%
+2023-08-27 21:19:54 [INFO] Preparing spawn area: 65%
+2023-08-27 21:19:55 [INFO] Preparing spawn area: 69%
+2023-08-27 21:19:57 [INFO] Preparing spawn area: 69%
+2023-08-27 21:19:58 [INFO] Preparing spawn area: 73%
+2023-08-27 21:19:59 [INFO] Preparing spawn area: 77%
+2023-08-27 21:20:01 [INFO] Preparing spawn area: 81%
+2023-08-27 21:20:02 [INFO] Preparing spawn area: 81%
+2023-08-27 21:20:03 [INFO] Preparing spawn area: 85%
+2023-08-27 21:20:04 [INFO] Preparing spawn area: 85%
+2023-08-27 21:20:05 [INFO] Preparing spawn area: 89%
+2023-08-27 21:20:07 [INFO] Preparing spawn area: 89%
+2023-08-27 21:20:08 [INFO] Preparing spawn area: 93%
+2023-08-27 21:20:09 [INFO] Preparing spawn area: 97%
+2023-08-27 21:20:10 [INFO] Preparing spawn area: 97%
+2023-08-27 21:20:10 [INFO] Done (46437969142ns)! For help, type "help" or "?"
+2023-08-27 21:20:11 [INFO] ModLoaderMP Beta 1.6.6v4 Initialized
+2023-08-27 21:21:42 [INFO] CONSOLE: Stopping the server..
+2023-08-27 21:21:42 [INFO] Stopping server
+2023-08-27 21:21:42 [INFO] Saving chunks
+2023-08-27 21:21:44 [INFO] Saving chunks
+2023-08-27 21:21:44 [INFO] Stopping server
+2023-08-27 21:21:44 [INFO] Saving chunks
+2023-08-27 21:21:44 [INFO] Saving chunks
+2023-08-27 21:22:42 [INFO] ModLoader Server Beta 1.6.6v4 Initializing...
+2023-08-27 21:22:42 [SEVERE] Unexpected exception
+java.lang.RuntimeException: ModLoader has failed to initialize.
+	at ModLoader.ThrowException(ModLoader.java:1208)
+	at ModLoader.init(ModLoader.java:629)
+	at ModLoader.Init(ModLoader.java:1271)
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:72)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:255)
+	at bq.run(SourceFile:422)
+Caused by: java.lang.RuntimeException: Exception occured in ModLoader
+	at ModLoader.ThrowException(ModLoader.java:1208)
+	at ModLoader.ThrowException(ModLoader.java:1213)
+	at ModLoader.addMod(ModLoader.java:118)
+	at ModLoader.readFromModFolder(ModLoader.java:849)
+	at ModLoader.init(ModLoader.java:605)
+	... 4 more
+Caused by: java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    mod_AEI.OnTickInGame(Lnet/minecraft/client/Minecraft;)Z @165: invokevirtual
+  Reason:
+    Type 'id' (current frame, stack[1]) is not assignable to 'da'
+  Current Frame:
+    bci: @165
+    flags: { }
+    locals: { 'mod_AEI', 'net/minecraft/client/Minecraft' }
+    stack: { 'net/minecraft/client/Minecraft', 'id' }
+  Bytecode:
+    0x0000000: b200 25c6 008b b200 25b4 0026 9900 5db8
+    0x0000010: 0027 9900 7cb8 0028 b800 2999 001c b200
+    0x0000020: 25b8 002a b800 28b6 002b 2ab2 0025 b600
+    0x0000030: 2cb6 0022 b700 2db8 0028 1100 d3a0 0014
+    0x0000040: b200 2512 2eb6 002f 2a12 2eb7 002d a7ff
+    0x0000050: c1b8 0028 04a0 ffba 2bb4 0030 b600 31b2
+    0x0000060: 0025 03b6 0032 a7ff a92b b400 33b4 0034
+    0x0000070: b400 35b8 0029 9900 182b b400 36c1 0037
+    0x0000080: 9900 0eb8 0027 572b b400 30b6 0031 2bb4
+    0x0000090: 0036 c700 21b2 0009 c600 1bb2 0008 9a00
+    0x00000a0: 152b b200 09b6 0038 2bb4 0030 b600 3101
+    0x00000b0: b300 092b b400 39b6 003a 4120 b200 3b94
+    0x00000c0: 9900 47b2 003c 0460 b300 3cb2 003c 100a
+    0x00000d0: a400 3703 b300 3cb2 000a 0460 b300 0ab2
+    0x00000e0: 000a 1018 a400 0703 b300 0ab2 0007 0460
+    0x00000f0: b300 07b2 0007 b200 06b9 003d 0100 0464
+    0x0000100: a400 0703 b300 0720 b300 3b04 ac       
+  Stackmap Table:
+    same_frame(@15)
+    same_frame(@55)
+    same_frame(@81)
+    same_frame(@105)
+    same_frame(@142)
+    same_frame(@179)
+    append_frame(@235,Long)
+    same_frame(@263)
+
+	at java.lang.Class.getDeclaredFields0(Native Method)
+	at java.lang.Class.privateGetDeclaredFields(Class.java:2583)
+	at java.lang.Class.privateGetPublicFields(Class.java:2614)
+	at java.lang.Class.getFields(Class.java:1557)
+	at ModLoader.setupProperties(ModLoader.java:133)
+	at ModLoader.addMod(ModLoader.java:103)
+	... 6 more
+2023-08-27 21:23:04 [INFO] Stopping server
+2023-08-27 21:23:04 [INFO] Stopping server
+2023-08-27 21:23:14 [INFO] ModLoader Server Beta 1.6.6v4 Initializing...
+2023-08-27 21:23:14 [SEVERE] Unexpected exception
+java.lang.RuntimeException: ModLoader has failed to initialize.
+	at ModLoader.ThrowException(ModLoader.java:1208)
+	at ModLoader.init(ModLoader.java:629)
+	at ModLoader.Init(ModLoader.java:1271)
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:72)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:255)
+	at bq.run(SourceFile:422)
+Caused by: java.lang.RuntimeException: Exception occured in ModLoader
+	at ModLoader.ThrowException(ModLoader.java:1208)
+	at ModLoader.ThrowException(ModLoader.java:1213)
+	at ModLoader.addMod(ModLoader.java:118)
+	at ModLoader.readFromModFolder(ModLoader.java:849)
+	at ModLoader.init(ModLoader.java:605)
+	... 4 more
+Caused by: java.lang.NoClassDefFoundError: uu
+	at java.lang.Class.getDeclaredFields0(Native Method)
+	at java.lang.Class.privateGetDeclaredFields(Class.java:2583)
+	at java.lang.Class.privateGetPublicFields(Class.java:2614)
+	at java.lang.Class.getFields(Class.java:1557)
+	at ModLoader.setupProperties(ModLoader.java:133)
+	at ModLoader.addMod(ModLoader.java:103)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: uu
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 12 more
+2023-08-27 21:23:17 [INFO] Stopping server
+2023-08-27 21:23:17 [INFO] Stopping server
+2023-08-27 21:29:43 [INFO] Starting minecraft server version Beta 1.7.3
+2023-08-27 21:29:43 [INFO] Loading properties
+2023-08-27 21:29:43 [INFO] Starting Minecraft server on *:25565
+2023-08-27 21:29:43 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2023-08-27 21:29:43 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2023-08-27 21:29:43 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2023-08-27 21:29:43 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2023-08-27 21:29:43 [INFO] Preparing level "world"
+2023-08-27 21:29:43 [INFO] Preparing start region for level 0
+2023-08-27 21:29:44 [INFO] Preparing start region for level 1
+2023-08-27 21:29:44 [INFO] Preparing spawn area: 32%
+2023-08-27 21:29:45 [INFO] Done (1684053770ns)! For help, type "help" or "?"
+2023-08-27 21:30:10 [INFO] Unknown console command. Type "help" for help.
+2023-08-27 21:30:31 [INFO] To run the server without a gui, start it like this:
+2023-08-27 21:30:31 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2023-08-27 21:30:31 [INFO] Console commands:
+2023-08-27 21:30:31 [INFO]    help  or  ?               shows this message
+2023-08-27 21:30:31 [INFO]    kick <player>             removes a player from the server
+2023-08-27 21:30:31 [INFO]    ban <player>              bans a player from the server
+2023-08-27 21:30:31 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2023-08-27 21:30:31 [INFO]    ban-ip <ip>               bans an IP address from the server
+2023-08-27 21:30:31 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2023-08-27 21:30:31 [INFO]    op <player>               turns a player into an op
+2023-08-27 21:30:31 [INFO]    deop <player>             removes op status from a player
+2023-08-27 21:30:31 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2023-08-27 21:30:31 [INFO]    give <player> <id> [num]  gives a player a resource
+2023-08-27 21:30:31 [INFO]    tell <player> <message>   sends a private message to a player
+2023-08-27 21:30:31 [INFO]    stop                      gracefully stops the server
+2023-08-27 21:30:31 [INFO]    save-all                  forces a server-wide level save
+2023-08-27 21:30:31 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2023-08-27 21:30:31 [INFO]    save-on                   re-enables terrain saving
+2023-08-27 21:30:31 [INFO]    list                      lists all currently connected players
+2023-08-27 21:30:31 [INFO]    say <message>             broadcasts a message to all players
+2023-08-27 21:30:31 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2023-08-27 21:31:01 [INFO] Unknown console command. Type "help" for help.
+2023-08-27 21:31:05 [INFO] Unknown console command. Type "help" for help.
+2023-08-27 21:31:17 [INFO] CONSOLE: Stopping the server..
+2023-08-27 21:31:17 [INFO] Stopping server
+2023-08-27 21:31:17 [INFO] Saving chunks
+2023-08-27 21:31:17 [INFO] Saving chunks
